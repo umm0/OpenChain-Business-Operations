@@ -28,7 +28,8 @@ All meetings and discussions are open for anyone to participate in.
 - [Calendar](https://openchainproject.org/participate)
   - Open Chain Business Operations Study Group EU/ASIA on Monday 11:00 UTC (bi-weekly)
   - Open Chain Business Operations Study Group NA/EU (CRA Checklist focus) on Tuesday 14:00 UTC
-- [Mailing List](https://lists.openchainproject.org/g/OpenChain-BusinessOps-Study-Group)
+- [Mailing list](https://lists.openchainproject.org/g/OpenChain-BusinessOps-Study-Group)
+- [Meeting minutes](MoMs%20for%20Business%20Operations.md)
 - [Website](https://openchainproject.org/openchain-business-operations)
 
 For any questions or support for this group, please contact the [OpenChain Project staff](mailto:support@openchainproject.org).
