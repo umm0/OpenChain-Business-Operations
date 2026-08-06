@@ -1,6 +1,6 @@
 MoMs for Business Operation Study Group
 ===============
-
+Meeting minutes for both the Study Group and the CRA Checklist are maintained in Google Docs and periodically updated in this Markdown file. For the latest updates, please see the [MoMs Google Document](https://docs.google.com/document/d/1SnzXycIUhW0HqN1Hfe_CKfPQ-O19bpbL0a97ial8hvY/edit?usp=sharing).
 
 ## Date: Jul 28, 2026
 
