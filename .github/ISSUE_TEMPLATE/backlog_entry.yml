@@ -1,8 +1,8 @@
 name: New Backlog Topic
-description: Suggest a new discussion topic, emerging requirement, operational challenge, or potential project for the OpenChain Business Operations Study Group.
+description: Suggest a new discussion topic or potential project for the OpenChain Business Operations Study Group.
 title: "[Topic] "
 labels:
-  - backlog
+  - topic
 
 body:
   - type: markdown
